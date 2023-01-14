@@ -8,8 +8,8 @@ Hello there 🤓 I'm Eric.  I'm a software developer who loves creating engaging
 
 ## 🧐 About
 
-- 👨‍💻 My blog: 📑
-- 📫 How to reach me: 📧
+- 👨‍💻 My blog: https://pandatechblog.hashnode.dev/
+- 📫 How to reach me: ericwang42@outlook.com
 - 🌱 Languages and Tools: 
 
     <div>
