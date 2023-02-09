@@ -1,6 +1,6 @@
 ### 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-Hello there 🤓 I'm Eric.  I'm a software developer who loves creating engaging applications.  Advocate for open source and tech enthusiast.
+Hello there 🤓 I'm Eric.  I'm a software developer who loves creating engaging applications.  Advocate for open source and mental health.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https:https://twitter.com/ImmutablePanda)](https://twitter.com/ImmutablePanda)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericwang42@outlook.com)](mailto:ericwang42@outlook.com)
