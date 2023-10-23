@@ -10,6 +10,7 @@ Hello there 🤓 I'm Eric.  I'm a software developer who loves creating engaging
 
 - 👨‍💻 My blog: https://pandatechblog.hashnode.dev/
 - 📫 How to reach me: ericwang42@outlook.com
+- 🤝 Connect with me: https://www.linkedin.com/in/ewang42/
 - 🌱 Languages and Tools: 
 
     <div>
